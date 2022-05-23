@@ -944,7 +944,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 971,1360-XFJMR,Não,Feminino,0,1,0,67,1,Sim,Fibra,Não,Sim,Sim,Sim,Sim,Sim,Anual,Sim,cartão de crédito (automático),109.7,7344.45,7349.900000000001,-5.450000000000728,3.66
 972,1363-TXLSL,Sim,Masculino,1,1,0,1,1,Não,Fibra,Não,Não,Não,Não,Não,Não,Mensal,Sim,Cheque Eletrônico,70.3,70.3,70.3,0.0,2.34
 974,1370-GGAWX,Não,Feminino,0,0,0,46,1,Sim,Fibra,Não,Sim,Sim,Não,Não,Sim,Anual,Sim,Cheque Eletrônico,94.15,4408.45,4330.900000000001,77.54999999999927,3.14
-975,1371-DWPAZ,Não,Feminino,0,1,1,0,0,Sem telefone,DSL,Sim,Sim,Sim,Sim,Sim,Não,Bianual,Não,cartão de crédito (automático),56.05,56.05,0.0,56.05,1.87
+975,1371-DWPAZ,Não,Feminino,0,1,1,0,0,Sem telefone,DSL,Sim,Sim,Sim,Sim,Sim,Não,Bianual,Não,cartão de crédito (automático),56.05,0.0,0.0,0.0,1.87
 976,1371-OJCEK,Não,Feminino,0,0,0,48,1,Sim,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Anual,Não,transferência bancária (automático),24.35,1133.7,1168.8000000000002,-35.100000000000136,0.81
 977,1371-WEPDS,Não,Masculino,1,1,0,40,1,Não,DSL,Não,Não,Não,Não,Não,Sim,Anual,Não,Cheque Eletrônico,55.8,2283.3,2232.0,51.30000000000018,1.86
 978,1373-ORVIZ,Sim,Feminino,0,1,1,11,1,Sim,DSL,Não,Não,Não,Sim,Não,Sim,Mensal,Sim,Cheque Eletrônico,66.35,740.8,729.8499999999999,10.950000000000045,2.21
@@ -1730,7 +1730,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 1772,2519-FAKOD,Sim,Masculino,0,0,1,38,1,Sim,Fibra,Não,Não,Sim,Não,Sim,Sim,Mensal,Sim,transferência bancária (automático),99.25,3777.15,3771.5,5.650000000000091,3.31
 1773,2519-LBNQL,Não,Masculino,1,1,0,60,1,Sim,Fibra,Não,Sim,Sim,Não,Sim,Sim,Anual,Sim,Cheque Eletrônico,104.35,6339.45,6261.0,78.44999999999982,3.48
 1774,2519-TWKFS,Não,Masculino,0,1,1,25,1,Sim,DSL,Não,Não,Não,Sim,Não,Não,Anual,Sim,Cheque,55.1,1466.1,1377.5,88.59999999999991,1.84
-1775,2520-SGTTA,Não,Feminino,0,1,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,20.0,20.0,0.0,20.0,0.67
+1775,2520-SGTTA,Não,Feminino,0,1,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,20.0,0.0,0.0,0.0,0.67
 1776,2521-NPUZR,Não,Masculino,0,1,0,70,1,Não,Fibra,Sim,Sim,Sim,Sim,Não,Sim,Bianual,Não,cartão de crédito (automático),101.0,7085.5,7070.0,15.5,3.37
 1777,2522-AHJXR,Não,Masculino,0,1,0,60,1,Sim,Fibra,Sim,Não,Sim,Sim,Sim,Sim,Mensal,Sim,transferência bancária (automático),109.45,6572.85,6567.0,5.850000000000364,3.65
 1778,2522-WLNSF,Não,Feminino,1,1,0,34,1,Não,DSL,Não,Não,Sim,Sim,Sim,Não,Anual,Não,transferência bancária (automático),64.2,2106.3,2182.8,-76.5,2.14
@@ -1905,7 +1905,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 1952,2773-MADBQ,Não,Feminino,0,0,0,36,0,Sem telefone,DSL,Sim,Sim,Sim,Sim,Não,Sim,Bianual,Sim,Cheque,53.1,1901.25,1911.6000000000001,-10.350000000000136,1.77
 1953,2773-OVBPK,Não,Masculino,0,1,0,67,1,Sim,Fibra,Não,Sim,Sim,Sim,Sim,Sim,Bianual,Sim,transferência bancária (automático),111.3,7567.2,7457.099999999999,110.10000000000036,3.71
 1954,2774-LVQUS,Sim,Feminino,1,1,0,15,1,Sim,Fibra,Não,Não,Sim,Sim,Não,Não,Mensal,Sim,Cheque Eletrônico,83.05,1258.3,1245.75,12.549999999999955,2.77
-1955,2775-SEFEE,Não,Masculino,0,0,1,0,1,Sim,DSL,Sim,Sim,Não,Sim,Não,Não,Bianual,Sim,transferência bancária (automático),61.9,61.9,0.0,61.9,2.06
+1955,2775-SEFEE,Não,Masculino,0,0,1,0,1,Sim,DSL,Sim,Sim,Não,Sim,Não,Não,Bianual,Sim,transferência bancária (automático),61.9,0.0,0.0,0.0,2.06
 1956,2777-PHDEI,Sim,Feminino,0,0,0,1,1,Não,Fibra,Não,Não,Não,Não,Sim,Não,Mensal,Não,Cheque Eletrônico,78.05,78.05,78.05,0.0,2.6
 1957,2778-OCLGR,Sim,Masculino,1,1,0,24,0,Sem telefone,DSL,Sim,Não,Não,Não,Não,Sim,Mensal,Não,transferência bancária (automático),39.1,971.3,938.4000000000001,32.899999999999864,1.3
 1958,2782-JEEBU,Não,Masculino,0,0,0,21,0,Sem telefone,DSL,Não,Sim,Não,Sim,Não,Não,Mensal,Sim,Cheque,36.0,780.15,756.0,24.149999999999977,1.2
@@ -2024,7 +2024,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 2072,2919-HBCJO,Sim,Feminino,0,0,0,4,1,Não,Fibra,Não,Sim,Não,Não,Não,Não,Mensal,Sim,transferência bancária (automático),76.65,333.6,306.6,27.0,2.56
 2073,2920-RNCEZ,Não,Masculino,0,1,1,1,1,Não,Fibra,Não,Não,Não,Não,Não,Não,Mensal,Sim,cartão de crédito (automático),69.95,69.95,69.95,0.0,2.33
 2074,2921-XWDJH,Não,Feminino,1,1,0,38,1,Não,Fibra,Sim,Não,Não,Não,Não,Sim,Mensal,Sim,Cheque Eletrônico,83.45,3147.15,3171.1,-23.949999999999818,2.78
-2075,2923-ARZLG,Não,Masculino,0,1,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Anual,Sim,Cheque,19.7,19.7,0.0,19.7,0.66
+2075,2923-ARZLG,Não,Masculino,0,1,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Anual,Sim,Cheque,19.7,0.0,0.0,0.0,0.66
 2076,2924-KHUVI,Não,Masculino,0,1,0,56,1,Sim,Fibra,Sim,Não,Não,Não,Sim,Sim,Anual,Sim,Cheque Eletrônico,100.55,5514.95,5630.8,-115.85000000000036,3.35
 2077,2925-MXLSX,Não,Feminino,0,0,0,30,1,Sim,DSL,Não,Sim,Sim,Não,Sim,Não,Anual,Sim,cartão de crédito (automático),68.95,2038.7,2068.5,-29.799999999999955,2.3
 2078,2925-VDZHY,Não,Masculino,0,1,1,72,1,Sim,DSL,Sim,Sim,Sim,Sim,Sim,Sim,Bianual,Não,cartão de crédito (automático),88.7,6501.35,6386.400000000001,114.94999999999982,2.96
@@ -2175,7 +2175,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 2229,3106-ULWFW,Sim,Feminino,0,1,0,8,1,Sim,Fibra,Não,Não,Não,Não,Não,Sim,Mensal,Sim,cartão de crédito (automático),85.2,627.4,681.6,-54.200000000000045,2.84
 2230,3108-PCCGG,Não,Masculino,1,1,0,72,1,Sim,DSL,Sim,Sim,Sim,Não,Sim,Sim,Bianual,Não,cartão de crédito (automático),84.45,5899.85,6080.400000000001,-180.55000000000018,2.82
 2231,3113-IWHLC,Não,Masculino,0,0,0,5,1,Não,DSL,Sim,Não,Sim,Não,Não,Não,Mensal,Sim,Cheque,55.8,274.35,279.0,-4.649999999999977,1.86
-2232,3115-CZMZD,Não,Masculino,0,0,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,20.25,20.25,0.0,20.25,0.68
+2232,3115-CZMZD,Não,Masculino,0,0,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,20.25,0.0,0.0,0.0,0.68
 2233,3115-JPJDD,Não,Feminino,0,1,0,59,1,Não,Fibra,Sim,Não,Sim,Não,Não,Não,Anual,Sim,cartão de crédito (automático),81.25,4639.45,4793.75,-154.30000000000018,2.71
 2234,3118-UHVVQ,Não,Feminino,0,1,0,68,1,Sim,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,cartão de crédito (automático),25.8,1911.5,1754.4,157.0999999999999,0.86
 2235,3120-FAZKD,Não,Masculino,0,1,1,54,1,Sim,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Sim,transferência bancária (automático),24.05,1230.9,1298.7,-67.79999999999995,0.8
@@ -2249,7 +2249,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 2305,3211-AAPKX,Não,Masculino,0,0,0,20,1,Sim,Fibra,Não,Não,Não,Sim,Sim,Sim,Mensal,Sim,Cheque,98.55,2031.95,1971.0,60.950000000000045,3.28
 2306,3211-ILJTT,Sim,Masculino,0,1,0,17,1,Não,Fibra,Não,Não,Não,Não,Não,Não,Mensal,Sim,transferência bancária (automático),70.4,1214.05,1196.8000000000002,17.249999999999773,2.35
 2307,3212-KXOCR,Não,Masculino,0,0,0,52,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,transferência bancária (automático),21.0,1107.2,1092.0,15.200000000000045,0.7
-2308,3213-VVOLG,Não,Masculino,0,1,1,0,1,Sim,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,25.35,25.35,0.0,25.35,0.85
+2308,3213-VVOLG,Não,Masculino,0,1,1,0,1,Sim,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,25.35,0.0,0.0,0.0,0.85
 2309,3214-IYUUQ,Não,Feminino,0,1,0,61,1,Não,Fibra,Sim,Sim,Não,Sim,Não,Sim,Anual,Não,transferência bancária (automático),93.7,5860.7,5715.7,145.0,3.12
 2310,3217-FZDMN,Sim,Feminino,1,0,0,8,1,Não,Fibra,Não,Não,Sim,Não,Sim,Sim,Mensal,Sim,cartão de crédito (automático),94.45,742.95,755.6,-12.649999999999977,3.15
 2311,3219-JQRSL,Não,Feminino,1,1,0,72,1,Sim,DSL,Sim,Sim,Sim,Sim,Sim,Sim,Bianual,Não,cartão de crédito (automático),89.1,6352.4,6415.2,-62.80000000000018,2.97
@@ -2854,7 +2854,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 2927,4072-IPYLT,Não,Feminino,0,1,1,36,1,Não,DSL,Sim,Não,Não,Não,Não,Não,Mensal,Não,cartão de crédito (automático),51.05,1815.0,1837.8,-22.799999999999955,1.7
 2928,4074-SJFFA,Sim,Feminino,0,0,0,1,1,Não,DSL,Não,Não,Não,Não,Não,Sim,Mensal,Sim,Cheque,54.75,54.75,54.75,0.0,1.82
 2929,4075-JFPGR,Não,Feminino,0,1,0,51,1,Não,Fibra,Sim,Sim,Sim,Não,Sim,Não,Anual,Sim,Cheque Eletrônico,93.5,4619.55,4768.5,-148.94999999999982,3.12
-2930,4075-WKNIU,Não,Feminino,0,1,1,0,1,Sim,DSL,Não,Sim,Sim,Sim,Sim,Não,Bianual,Não,Cheque,73.35,73.35,0.0,73.35,2.44
+2930,4075-WKNIU,Não,Feminino,0,1,1,0,1,Sim,DSL,Não,Sim,Sim,Sim,Sim,Não,Bianual,Não,Cheque,73.35,0.0,0.0,0.0,2.44
 2931,4077-CROMM,Sim,Feminino,0,1,1,31,1,Sim,Fibra,Não,Não,Sim,Sim,Sim,Sim,Mensal,Sim,Cheque Eletrônico,104.2,3243.45,3230.2000000000003,13.249999999999545,3.47
 2932,4077-HWUYD,Não,Masculino,0,1,1,72,1,Sim,DSL,Sim,Sim,Sim,Sim,Sim,Sim,Bianual,Sim,transferência bancária (automático),87.55,6463.15,6303.599999999999,159.55000000000018,2.92
 2933,4078-SAYYN,Sim,Feminino,0,0,0,11,1,Sim,Fibra,Não,Não,Sim,Não,Sim,Sim,Mensal,Sim,Cheque Eletrônico,100.75,1129.75,1108.25,21.5,3.36
@@ -3051,7 +3051,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 3131,4365-MSDYN,Não,Masculino,0,1,0,8,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Mensal,Sim,transferência bancária (automático),19.55,161.15,156.4,4.75,0.65
 3132,4366-CTOUZ,Não,Feminino,0,0,0,50,1,Não,Fibra,Não,Sim,Não,Sim,Sim,Sim,Bianual,Sim,Cheque,100.2,5038.45,5010.0,28.449999999999818,3.34
 3133,4367-NHWMM,Não,Feminino,0,0,0,1,0,Sem telefone,DSL,Não,Não,Não,Não,Não,Não,Mensal,Sim,Cheque,24.9,24.9,24.9,0.0,0.83
-3134,4367-NUYAO,Não,Masculino,0,1,1,0,1,Sim,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,25.75,25.75,0.0,25.75,0.86
+3134,4367-NUYAO,Não,Masculino,0,1,1,0,1,Sim,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,25.75,0.0,0.0,0.0,0.86
 3135,4369-HTUIF,Sim,Masculino,1,0,0,6,1,Não,Fibra,Sim,Não,Não,Não,Sim,Não,Mensal,Sim,transferência bancária (automático),85.15,503.6,510.90000000000003,-7.300000000000011,2.84
 3136,4369-NYSCF,Não,Masculino,0,0,0,56,1,Não,DSL,Não,Sim,Não,Sim,Sim,Sim,Anual,Sim,transferência bancária (automático),75.75,4284.65,4242.0,42.649999999999636,2.52
 3137,4373-MAVJG,Sim,Feminino,0,1,1,14,1,Sim,Fibra,Não,Sim,Não,Não,Não,Sim,Mensal,Sim,transferência bancária (automático),90.9,1259.0,1272.6000000000001,-13.600000000000136,3.03
@@ -3117,7 +3117,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 3198,4468-KAZHE,Não,Feminino,1,1,0,20,1,Não,DSL,Não,Sim,Não,Não,Não,Sim,Mensal,Sim,Cheque Eletrônico,60.0,1259.35,1200.0,59.34999999999991,2.0
 3200,4468-YDOVK,Não,Masculino,0,0,1,5,1,Não,DSL,Não,Não,Não,Sim,Não,Não,Mensal,Sim,transferência bancária (automático),48.65,235.2,243.25,-8.050000000000011,1.62
 3201,4471-KXAUH,Sim,Feminino,0,1,0,42,1,Sim,Fibra,Não,Não,Sim,Sim,Não,Não,Mensal,Sim,Cheque Eletrônico,84.3,3588.4,3540.6,47.80000000000018,2.81
-3203,4472-LVYGI,Não,Feminino,0,1,1,0,0,Sem telefone,DSL,Sim,Não,Sim,Sim,Sim,Não,Bianual,Sim,transferência bancária (automático),52.55,52.55,0.0,52.55,1.75
+3203,4472-LVYGI,Não,Feminino,0,1,1,0,0,Sem telefone,DSL,Sim,Não,Sim,Sim,Sim,Não,Bianual,Sim,transferência bancária (automático),52.55,0.0,0.0,0.0,1.75
 3204,4472-VESGY,Não,Feminino,0,1,1,52,1,Sim,Fibra,Sim,Sim,Sim,Não,Não,Sim,Mensal,Não,transferência bancária (automático),98.15,4993.4,5103.8,-110.40000000000055,3.27
 3205,4475-NVTLU,Não,Masculino,0,1,1,45,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque Eletrônico,19.2,903.7,864.0,39.700000000000045,0.64
 3206,4476-OSWTN,Não,Masculino,1,1,0,69,1,Sim,Fibra,Sim,Não,Sim,Sim,Sim,Sim,Anual,Sim,Cheque,110.55,7610.1,7627.95,-17.849999999999454,3.68
@@ -4053,7 +4053,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 4166,5707-ORNDZ,Sim,Masculino,1,0,0,9,1,Sim,DSL,Sim,Não,Não,Não,Não,Não,Mensal,Não,Cheque Eletrônico,54.55,494.05,490.95,3.1000000000000227,1.82
 4167,5707-ZMDJP,Não,Masculino,0,1,1,53,1,Não,DSL,Sim,Sim,Não,Sim,Sim,Não,Bianual,Sim,Cheque,69.7,3729.6,3694.1000000000004,35.499999999999545,2.32
 4168,5708-EVONK,Sim,Feminino,0,1,1,58,1,Sim,Fibra,Sim,Sim,Não,Não,Não,Sim,Mensal,Sim,transferência bancária (automático),93.4,5435.6,5417.200000000001,18.399999999999636,3.11
-4169,5709-LVOEQ,Não,Feminino,0,1,1,0,1,Não,DSL,Sim,Sim,Sim,Não,Sim,Sim,Bianual,Não,Cheque,80.85,80.85,0.0,80.85,2.7
+4169,5709-LVOEQ,Não,Feminino,0,1,1,0,1,Não,DSL,Sim,Sim,Sim,Não,Sim,Sim,Bianual,Não,Cheque,80.85,0.0,0.0,0.0,2.7
 4170,5712-AHQNN,Não,Feminino,0,0,0,43,1,Não,Fibra,Não,Sim,Sim,Não,Sim,Não,Mensal,Sim,Cheque Eletrônico,91.65,3954.1,3940.9500000000003,13.149999999999636,3.06
 4171,5712-PTIWW,Sim,Masculino,0,0,0,2,1,Não,Fibra,Não,Não,Sim,Sim,Não,Não,Mensal,Sim,Cheque Eletrônico,79.85,152.45,159.7,-7.25,2.66
 4172,5712-VBOXD,Não,Feminino,0,0,0,4,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Mensal,Sim,cartão de crédito (automático),20.15,68.45,80.6,-12.149999999999991,0.67
@@ -5432,7 +5432,7 @@ index,id_cliente,churn,genero,idoso,parceirx,dependentes,tempo_permanencia,servi
 5596,7641-EUYET,Sim,Masculino,1,1,1,46,1,Sim,Fibra,Sim,Sim,Sim,Não,Sim,Não,Mensal,Sim,Cheque Eletrônico,100.7,4541.2,4632.2,-91.0,3.36
 5597,7641-TQFHN,Não,Masculino,0,0,1,39,1,Sim,Fibra,Não,Não,Não,Sim,Sim,Sim,Bianual,Não,Cheque,100.55,3895.35,3921.45,-26.09999999999991,3.35
 5598,7643-RCHXS,Não,Feminino,0,1,1,63,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque Eletrônico,19.35,1263.85,1219.0500000000002,44.79999999999973,0.64
-5599,7644-OMVMY,Não,Masculino,0,1,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,19.85,19.85,0.0,19.85,0.66
+5599,7644-OMVMY,Não,Masculino,0,1,1,0,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Não,Cheque,19.85,0.0,0.0,0.0,0.66
 5600,7647-GYYKX,Não,Feminino,0,1,1,54,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Bianual,Sim,transferência bancária (automático),20.35,1092.35,1098.9,-6.550000000000182,0.68
 5601,7649-PHJVR,Não,Masculino,0,0,0,11,1,Não,Não,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Sem internet,Anual,Não,Cheque,19.5,226.8,214.5,12.300000000000011,0.65
 5602,7649-SIJJF,Não,Masculino,0,1,0,71,1,Sim,DSL,Sim,Sim,Sim,Sim,Não,Sim,Bianual,Sim,Cheque,80.1,5585.4,5687.099999999999,-101.69999999999982,2.67
