@@ -2,6 +2,10 @@
 
 ![Badge in progress](http://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=GREEN&style=for-the-badge)
 
+#### Notebook I : [Data Cleaning](https://github.com/camilamaestrelli/Telco-Customer-Churn/blob/main/01_DataCleaning_TelcoCustomerChurn.ipynb)
+
+#### Notebook II : [Exploratory Data Analysis with Plotly](https://github.com/camilamaestrelli/Telco-Customer-Churn/blob/main/02_EDA_TelcoCustomerChurn.ipynb)
+
 
 #### Dicionário de dados
 
