@@ -6,6 +6,8 @@
 
 #### Notebook II : [Exploratory Data Analysis with Plotly](https://github.com/camilamaestrelli/Telco-Customer-Churn/blob/main/02_EDA_TelcoCustomerChurn.ipynb)
 
+#### Notebook III : [Machine Learning with PySpark](https://github.com/camilamaestrelli/Telco-Customer-Churn/blob/main/03_ML_TelcoCustomerChurn.ipynb)
+
 
 #### Dicionário de dados
 
